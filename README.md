@@ -1,1 +1,1 @@
-## Relase repo for Aviliax OMS Electron
+## Release repo for Aviliax OMS Electron
